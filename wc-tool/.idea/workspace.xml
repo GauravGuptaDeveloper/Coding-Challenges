@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86e69c7-4523-42dc-9d7c-f726432de997" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/command/ArgumentParserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/command/Commander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/command/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/utility/FileUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/utility/StringUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e86e69c7-4523-42dc-9d7c-f726432de997" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
